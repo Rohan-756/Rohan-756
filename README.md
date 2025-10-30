@@ -1,109 +1,73 @@
-# Hello, I am Rohan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=30>
+<!-- 🌟 GITHUB PROFILE README – Rohan Suresh -->
 
-###
+<h1 align="center">Hey there, I'm Rohan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/></h1>
+
+<p align="center">
+  💻 Full-Stack Developer • Problem Solver • Tech Enthusiast
+</p>
+
+---
+
+### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-756&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan-756&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-756&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-756&theme=tokyonight&hide_border=false" height="165" />
 </div>
 
-###
-
-<div align="left">
-  <h3>Frontend technologies & libraries</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <h3>Backend technologies</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <h3>Databases</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <h3>Machine learning</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <h3>Low level programming & Operating Systems</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <h3>Version Control & Cloud</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <h3>Project Management</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <h3>Documentation</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan-756&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src=".github/workflows/coding.gif"  />
+### 🧭 About Me
 
-###
+ Passionate **Full-Stack Developer** with a strong focus on **modern web technologies**, **API design**, and **data-driven applications**.  
+ I love creating **seamless user experiences** backed by **scalable, performant backends**.  
+ Experienced in integrating databases, authentication, and cloud-ready deployment workflows.  
 
-<!-- <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div> -->
 
-###
+---
 
-<div align="left">
+### 🧩 Tech Stack (Visual Overview)
+
+<div align="center">
+
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height="45"/>
+
+#### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis,prisma,supabase" height="45"/>
+
+#### 🧠 Extra Tools & AI Integration
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,sklearn,jupyter" height="45"/>
+
+#### 🧰 Development & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,bash,linux,jira" height="45"/>
+
 </div>
 
-###
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/Rohan-756/Rohan-756/output/snake.svg" alt="Snake animation" />
+### 🎬 My Workflow in Action
 
-###
+<div align="center">
+  <img src=".github/workflows/coding.gif" height="220" alt="coding animation" />
+</div>
 
-<div align="center" style="width: 100%"></div>
+---
 
-###
+### 🐍 The Snake That Eats My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rohan-756/Rohan-756/output/snake.svg" alt="snake animation" />
+</div>
+
+
+
+
+---
+
+<p align="center"><i>"Building reliable systems isn’t about code — it’s about craftsmanship."</i></p>
